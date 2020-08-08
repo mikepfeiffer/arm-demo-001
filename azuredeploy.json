@@ -46,8 +46,8 @@
           "location": "[resourceGroup().location]",
           "name": "AllowAllWindowsAzureIps",
           "properties": {
-            "startIpAddress": "0.0.0.0",
-            "endIpAddress": "0.0.0.0"
+            "startIpAddress": "4.2.2.2",
+            "endIpAddress": "4.2.2.3"
           }
         }
       ]
